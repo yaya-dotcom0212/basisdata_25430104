@@ -1,0 +1,10 @@
+# Pengecualian berkas kredensial & rahasia
+*.env
+kredensial*.txt
+*.key
+*.pem
+
+# Pengecualian folder bawaan/sampah
+.vscode/
+node_modules/
+.DS_Store
