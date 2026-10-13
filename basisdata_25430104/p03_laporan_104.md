@@ -139,6 +139,6 @@ Saya memakai Claude (Anthropic) untuk membantu menyusun draf laporan, membuat ga
 
 ### Lampiran B. ERD Proyek Toko Daring
 
-![ERD proyek](<img/tokoo.drawio.png>)![dan](toko.png)
+![ERD proyek](<img/tokoo.drawio.png>)![dan](<img width="960" height="540" alt="toko" src="https://github.com/user-attachments/assets/3a233562-c004-4634-ba4c-ac8f2eed6b0a" />)
 
 *Gambar B. ERD proyek toko daring (`p03_erd_25430104.drawio` dan `.png`).*
