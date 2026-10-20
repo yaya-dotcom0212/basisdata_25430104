@@ -7,8 +7,6 @@
 
 <br>
 
-|
-
 *Dosen Pengampu : Dedi Irawan, S.Kom., M.T.I.*  
 *Mata Kuliah : Basis Data*
 
@@ -33,7 +31,7 @@
 ### 2026
 
 </div>
----
+
 
 ### 1. Tujuan Praktikum
 * Memahami perancangan basis data relational untuk sistem informasi klinik menggunakan phpMyAdmin dan MySQL.
