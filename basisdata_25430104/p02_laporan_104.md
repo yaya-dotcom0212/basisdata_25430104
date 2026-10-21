@@ -131,4 +131,4 @@ Koperasi Mahasiswa (Kopma) merupakan unit kegiatan mahasiswa yang menjalankan us
 
 - [x] **Bukti Tangkapan Layar:** Tabel PB, AB, KI, matriks CRUD, dan kamus data di berkas proyek (tangkapan tampilan GitHub).
 
-![Tampilan GitHub - Tabel PB, AB, KI, Matriks CRUD, dan Kamus Data](<img/pb.png>),(<![alt text](ab.png)>)(<![alt text](img/ki.png)>)(<![alt text](kcrt.png)>)(<![alt text](kamus.png)>)
+![Tampilan GitHub - Tabel PB, AB, KI, Matriks CRUD, dan Kamus Data](<img/pb.png>),(ab.png)>)(img/ki.png)>)(<![alt text](kcrt.png)>)(<![alt text](kamus.png)>)
